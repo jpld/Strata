@@ -14,7 +14,7 @@
 #define	kQCPlugIn_Description		@"Strata description"
 
 // WORKAROUND - naming violation for cocoa memory management
-@interface QCPlugIn(GhostWriterAdditions)
+@interface QCPlugIn(StrataAdditions)
 - (QCPlugInViewController*)createViewController NS_RETURNS_RETAINED;
 @end
 
