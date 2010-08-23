@@ -48,6 +48,7 @@
 		D8707B0C12222885009A9A33 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 		D8707B0D1222288E009A9A33 /* CHANGELOG */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CHANGELOG; sourceTree = "<group>"; };
 		D8707B0E12222894009A9A33 /* TODO */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TODO; sourceTree = "<group>"; };
+		D8707B0F122228DF009A9A33 /* Rakefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +92,7 @@
 				D8707B0C12222885009A9A33 /* README.markdown */,
 				D8707B0E12222894009A9A33 /* TODO */,
 				D8707B0D1222288E009A9A33 /* CHANGELOG */,
+				D8707B0F122228DF009A9A33 /* Rakefile */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
